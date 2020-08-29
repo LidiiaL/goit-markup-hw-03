@@ -44,6 +44,10 @@
     
   }
 
+   p {
+     margin-top: 0px;
+     margin-bottom: 0px;
+   }
   
    /*делает картинки блочными*/
    img {
@@ -318,11 +322,11 @@
   line-height: 1.2;
   text-align: center;
 
-padding-top: 30px;
+  padding-top: 30px;
   padding-bottom: 30px;
   border-radius: 0px 0px 4px 4px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-}
+} 
 
 /*задаёт стили для футеров*/
 .footer {
