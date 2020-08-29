@@ -184,13 +184,13 @@
 
 /*задаёт стили секции преимущества*/
 
+
 .advantages {
-  padding-top: 68px;
-  padding-bottom: 0px;
-  background-color: var(--primary-background-color);
+  margin-top: 68px;
 }
 
 .advantages-titles {
+  
   margin-top: 0px;
   margin-bottom: 10px;
   font-weight: 700;
@@ -230,7 +230,7 @@
 
 .examples {
   padding-bottom: 94px;
-  background-color: var(--primary-background-color);
+  color: var(--primary-background-color);
 }
 
 .examples-title {
